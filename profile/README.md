@@ -1,4 +1,4 @@
-<img src="https://fiatlinux.it/banner/2"/>
+<img src="https://fiatlinux.it/banner/5"/>
 
 # Hello! 🟨🟧🟥⬛
 Welcome to the FiatLinux organization on GitHub! We are dedicated to developing open source projects with a focus on embedded systems, artificial intelligence, and web development. Whether you're interested in contributing, using our projects, or simply learning more about what we do, you're in the right place.
